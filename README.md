@@ -14,12 +14,13 @@ Clone the repository using the command:
 
 `git clone https://github.com/powerfist01/weAsk.git`  
 
-Execute the following command to install the npm packages:<br />
+Execute the following command to install  npm packages:<br />
 
 `npm install`
 
 # Usage:
-Run this command to start the app:
+
+Run the following command to start the app:
 
 `nodemon index.js`
 
